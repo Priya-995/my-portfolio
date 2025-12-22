@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software engineer specializing in full-stack development with the MERN stack. I architect scalable platforms, optimize performance, and solve complex technical challenges."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16MTEkcmcyiYmf575-CPV17VqgAPlpKcX/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/16MTEkcmcyiYmf575-CPV17VqgAPlpKcX", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -236,11 +236,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/Priya-995/wanderlust" // Update with actual link
+          url: "https://github.com/Priya-995/WanderlustProject" // Update with actual link
         },
         {
           name: "Live Demo",
-          url: "https://wanderlust-demo.onrender.com" // Update with actual link
+          url: "https://wanderlust-project-25gj.onrender.com/listings" // Update with actual link
         }
       ]
     },
@@ -251,11 +251,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/Priya-995/stock-trading" // Update with actual link
+          url: "https://github.com/Priya-995/Zerodha_clone" // Update with actual link
         },
         {
           name: "Live Demo",
-          url: "https://stock-trading-demo.onrender.com" // Update with actual link
+          url: "https://stock-trading-platform-frontend-pnch.onrender.com/" // Update with actual link
         }
       ]
     }

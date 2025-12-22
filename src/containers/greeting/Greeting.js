@@ -39,12 +39,14 @@ export default function Greeting() {
               <div id="resume" className="empty-div"></div>
               <SocialMedia />
               <div className="button-greeting-div">
-                <Button text="Contact me" href="#contact" />
+               
                 {greeting.resumeLink && (
                   <a
-                    href={require("./resume.pdf")}
+                    href={process.env.PUBLIC_URL + "/resume.pdf"}
                     download="Resume.pdf"
                     className="download-link-button"
+                     target="_blank"
+                     rel="noopener noreferrer"
                   >
                     <Button text="Download my resume" />
                   </a>
