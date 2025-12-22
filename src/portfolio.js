@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Software engineer specializing in full-stack development with the MERN stack. I architect scalable platforms, optimize performance, and solve complex technical challenges."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16MTEkcmcyiYmf575-CPV17VqgAPlpKcX", // Set to empty to hide the button
+    true, // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
