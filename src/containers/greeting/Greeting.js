@@ -42,7 +42,7 @@ export default function Greeting() {
                
                 {greeting.resumeLink && (
                   <a
-                    href="/resume.pdf"
+                    href="https://github.com/Priya-995/my-portfolio/raw/main/public/resume.pdf"
                     download="Resume.pdf"
                     className="download-link-button"
                      target="_blank"
