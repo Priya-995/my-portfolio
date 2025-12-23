@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects, skills, and experience as a Software Engineer.
 
-🔗 **Live Site:** [your-site.netlify.app](https://your-site.netlify.app)
+🔗 **Live Site:** [your-site.netlify.app](https://priyasinghportfolio.netlify.app/)
 
 ## About This Project
 
@@ -63,13 +63,6 @@ npm start
 # Build for production
 npm run build
 ```
-
-## My Projects
-
-The portfolio showcases several projects I've built, including:
-- [List your actual projects here]
-- [With brief descriptions]
-- [And links to repos/demos]
 
 ## Contact
 
