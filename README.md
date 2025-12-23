@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects, skills, and experience as a Software Engineer.
 
-🔗 **Live Site:** [your-site.netlify.app](https://priyasinghportfolio.netlify.app/)
+🔗 **Live Site:** [priyasinghportfolio.netlify.app](https://priyasinghportfolio.netlify.app/)
 
 ## About This Project
 
