@@ -226,7 +226,6 @@ const openSource = {
 
 // Big Projects Section
 const bigProjects = {
-  title: "Projects",
   subtitle: "PRODUCTION-GRADE APPLICATIONS SHOWCASING FULL-STACK EXPERTISE",
   projects: [
     {
@@ -347,10 +346,10 @@ const talkSection = {
   ),
   talks: [
     {
-      title: "Codeplay - Tech Education Initiative",
+      title: "itspriya.explores - Tech Education Initiative",
       subtitle: "Educational content on YouTube, Threads, and Instagram",
-      slides_url: "https://youtube.com/@CodePlay29?si=bC-igLSff1Xh_IbQ", // Update with actual channel
-      event_url: "https://www.instagram.com/codeplay_official?igsh=MWJyajNvOWVidmU5cA==" // Update with actual profile
+      slides_url: "https://youtube.com/@itspriya.explores?si=XHZ_i9Yw90rBfSsV", // Update with actual channel
+      event_url: "https://www.instagram.com/itspriya.explores" // Update with actual profile
     }
   ],
   display: true
