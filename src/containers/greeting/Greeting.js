@@ -42,7 +42,7 @@ export default function Greeting() {
                
                 {greeting.resumeLink && (
                   <a
-                    href="https://drive.google.com/uc?export=download&id=1MRSCy63iIdI2IYJgZxfruP0SklxkBo5O"
+                    href="https://drive.google.com/uc?export=download&id=1wGQsOyVQFGARFqe0gcYGgEm8wLJSFtRj"
                     className="download-link-button"
                      target="_blank"
                      rel="noopener noreferrer"
